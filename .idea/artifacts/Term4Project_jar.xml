@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Term4Project:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="Term4Project.jar">
+      <element id="module-output" name="Term4Project" />
+    </root>
+  </artifact>
+</component>
