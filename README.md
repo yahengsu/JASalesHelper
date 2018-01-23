@@ -7,11 +7,12 @@ JA Sales Helper is a Java application meant to trivialize the task of collecting
 - Add/Remove Products 
 - Open/Save Sales Data files (.csv integration)
 - Simple and efficient GUI allows for easy tracking of customer sales data
+- Object Oriented Design
 
 # Future Considerations
 - Import Products List (if company has many different types of products)
 - System Log of Past Actions
-- Port from Java Application to Web Application (Much easier usability if hosted on website)
+- Port from Java Application to Web Application (Much easier usability if hosted on website, many students don't know how to run a Java application but can access a website easily)
 
 # Screenshots
 ![](https://github.com/yahengsu/JASalesHelper/blob/master/JASalesHelper.png)
